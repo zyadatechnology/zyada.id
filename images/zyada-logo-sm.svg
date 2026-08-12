@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="135.46667mm" height="135.46667mm" viewBox="0 0 135.46667 135.46667" version="1.1" role="img" aria-label="Zyada logo">
+  <defs>
+    <linearGradient id="gradMain" x1="56.824001" y1="75.144302" x2="394.97336" y2="413.29367" gradientTransform="matrix(0.28402759,0,0,0.24647021,-933.12011,297)" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22C6F7" />
+      <stop offset="55%" stop-color="#0A8FE3" />
+      <stop offset="100%" stop-color="#0058D6" />
+    </linearGradient>
+    <linearGradient id="gradTrap" x1="107.78715" y1="563.35101" x2="235.57603" y2="691.13989" gradientTransform="matrix(0.47620859,0,0,0.14700352,-933.12011,297)" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1AA8EC" />
+      <stop offset="100%" stop-color="#0050CE" />
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(-661.69934,-1434.1244)">
+    <g id="g4035">
+      <rect width="135.46667" height="135.46667" rx="28" ry="28" fill="#02183e" x="661.69934" y="1434.1244" />
+      <g id="g77729" transform="matrix(0.84781363,0,0,0.84781363,1466.1477,1199.0249)">
+        <path d="m -914.07011,315.52083 h 93.13333 l -69.58541,83.34375 h -26.45834 l 52.91667,-65.0875 -34.66042,-0.26458 z" fill="url(#gradMain)" />
+        <path d="m -865.91594,379.81458 h 28.83958 L -820.93678,398.6 h -60.85416 z" fill="url(#gradTrap)" />
+      </g>
+    </g>
+  </g>
+</svg>
